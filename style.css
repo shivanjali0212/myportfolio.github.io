@@ -4,7 +4,7 @@
     background-size: cover;
     position: relative;
 }
- .bannerText{
+.bannerText{
     text-align: center;
     position: absolute;
     top: 50%;
@@ -13,33 +13,33 @@
     color: white;
  }
 
- .bannerTitle{
+.bannerTitle{
     font-size: 4rem;
  }
 .shiv{
     font-size:0.5rem;
 }
 
- .bannerDesc{
+.bannerDesc{
     font-size: 2rem;
  }
 
- .card{
+.card{
     cursor: pointer;
  }
 
- .card:hover{
+.card:hover{
     background-color:skyblue;
     border:2px solid black;
  }
 
- .bIcon{
+.bIcon{
     width: 100%;
     text-align: center;
     font-size: 40px;
  }
 
- .footer{
+.footer{
    background: black;
    height: auto;
    width: 100vw;
@@ -48,7 +48,7 @@
 
  }
 
- .footer-content{
+.footer-content{
    display: flex;
    text-align: center;
    justify-content: center;
